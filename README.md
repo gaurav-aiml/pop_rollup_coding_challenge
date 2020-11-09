@@ -11,6 +11,7 @@ The problem is solved using Python 3.7
 the TRACTS are added into a Set. The Population in the year 2000 and Population in the 2010 for all the TRACTS in a CBSA are added.
 
 4. While writing to the report, for each unique CBSA, the following format is followed
+
   a. CBSA Code
   
   b. CBSA Title
