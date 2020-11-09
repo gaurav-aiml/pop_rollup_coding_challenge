@@ -12,9 +12,14 @@ the TRACTS are added into a Set. The Population in the year 2000 and Population 
 
 4. While writing to the report, for each unique CBSA, the following format is followed
   a. CBSA Code
+  
   b. CBSA Title
+  
   c. Length of the TRACTS set
+  
   d. Population in the year 2000 added up for all the TRACTS in a CBSA
+  
   e. Population in the year 2010 added up for all the TRACTS in a CBSA
+  
   f. Percentage change in population for the CBSA from 2000 to 2010 rounded to 2 decimal places
 
