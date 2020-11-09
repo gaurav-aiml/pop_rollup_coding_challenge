@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/Users/gauravpai/Desktop/pop_rollup_coding_challenge/src")
+sys.path.append("../../src")
 import unittest
 import utils
 import re

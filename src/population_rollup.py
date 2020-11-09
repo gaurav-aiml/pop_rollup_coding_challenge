@@ -1,6 +1,15 @@
 import utils
 import sys
 
+
+'''
+ This file accepts command line argument. Processes the contents in the input and generates the report in a csv format
+ 
+ Command Line Arguments  
+ Input Path : String : Path to the input file
+ Output Path : String : Path to which the report has to be written
+ 
+'''
 if len(sys.argv) != 3:
     raise ValueError("Please enter input file and output file to be created as arguments")
 
