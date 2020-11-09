@@ -32,6 +32,7 @@ def read_csv(input_path):
 
     with open(input_path) as f:
         _ = f.readline()
+
         while True:
             row = f.readline().strip()
             if row == "":
