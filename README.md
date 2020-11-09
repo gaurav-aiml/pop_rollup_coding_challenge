@@ -8,7 +8,7 @@ a. No external packages is used.
 b. Regular expression is used to convert a line in the input CSV file to an entry in a data dictionary
 
 c. While creating an entry for a unique CBSA code (if there are no CBSA code and CBSA title, then the entry it omitted from the calculations), 
-the TRACTS are added into a Set. The Population in the year 2000 and Population in the 2010 respectively are cumulatively added, for each of the TRACTS in a CBSA as they are encountered.
+the TRACTS are added into a Set. The Population in the year 2000 and Population in the year 2010 respectively are cumulatively added, for each of the TRACTS as they are encountered.
 
 d. While writing to the report, for each unique CBSA, the following format is followed
 
